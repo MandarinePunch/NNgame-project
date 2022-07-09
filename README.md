@@ -14,7 +14,11 @@ NNgames
 # 프로젝트기간 <br>
 22.05.17 ~ 22.07.01
 # 개발도구 및 환경 <br>
-  Front : HTML5, CSS, JS, jQuery, Bootstrap, JSP <br>
-  Back : Java, ORACLE DB, myBatis <br>
-  Platform : Eclipse, DBeaver <br>
-  형상관리 : GitHub <br>
+Front - HTML, CSS, JS, jQuery, JSP(Model2)<br>
+Back - Java(1.8v)<br>
+DB - ORACLE 11g<br>
+Server - Apache Tomcat(8.5v)<br>
+IDE - eclipse<br>
+DB 관리 툴 - DBeaver<br>
+프레임워크 - MyBatis(DB), Bootstrap(CSS)<br>
+형상 관리 - Github<br>
